@@ -1,2 +1,5 @@
-# Metodos-Numericos-Jacobi
-En el presente link estaran los dos programas del metodo de jacobi del equipo 8 Metodos Numericos 1 Bautista lopez Jafete Y Sosa Soria Monserrat Dariana
+# Metodos-Numericos-Programas
+En el siguiente apartado estaran los programas correspondientes al equipo #8 de la materia de metodos numericos 1 mismo que esta conformado por Jafete Bautista Lopez Y Dariana montserrat Sosa Perez 
+METODOS 
+-Metodo iterativo de jacobi 
+-Metodo HouseHOLDER
